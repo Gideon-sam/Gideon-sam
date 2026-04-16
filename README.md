@@ -13,7 +13,7 @@
 
 ---
 
-- Interested in **Backend engineering**, **ML**, and **Networks**
+- Interested in **Backend engineering**, **ML** and **Networks**
 - Looking to collaborate on **backend infrastructure**, **fintech platforms**, and **scalable system design**
 - Pronouns: **He/Him**
 
@@ -61,5 +61,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gideon-sam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-sam&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
