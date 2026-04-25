@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi, I'm Gideon Samuel</h1>
+<h1 align="center">I'm Gideon Samuel</h1>
 
 <p align="center">
- Machine Learning . Backend Developer · Distributed Systems 
+ Machine Learning . Backend Developer · Distributed Systems . Flutter , Cloud development 
 </p>
 
 <p align="center">
