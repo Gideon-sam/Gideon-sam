@@ -2,11 +2,11 @@
 <h1 align="center">I'm Gideon Samuel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+ML+Engineer;Distributed+Systems+%7C+Game+Development;Building+Real-World+Projects+%F0%9F%9A%80" />
+ Machine Learning . Backend Developer · Distributed Systems . Flutter , Cloud development 
 </p>
 
 <p align="center">
- Machine Learning . Backend Developer · Distributed Systems . Flutter , Cloud development 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+ML+Engineer;Distributed+Systems+%7C+Game+Development;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
