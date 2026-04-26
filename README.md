@@ -59,3 +59,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-sam&theme=react-dark)
+
