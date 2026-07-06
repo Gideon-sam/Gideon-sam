@@ -1,12 +1,9 @@
-
 <h1 align="center">I'm Gideon Samuel...</h1>
-
 <p align="center">
  Machine Learning . Backend Developer · Distributed Systems . Flutter . Cloud development 
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Cloud+Development+%7C+ML;Distributed+Systems+%7C+Game+Development;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Cloud+Development+%7C+ML;Distributed+Systems+%7C+Backend+Engineering;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
@@ -16,6 +13,8 @@
 </p>
 
 ---
+
+🔭 Currently: **Software Engineering Intern @ Hewlett Packard Enterprise (HPE)** — building backend microservices for a UPI PSP Switch system on distributed infrastructure
 
 - Interested in **Backend engineering**, **ML** and **Networks**
 - Looking to collaborate on **backend infrastructure**, **fintech platforms**, and **scalable system design**
@@ -57,4 +56,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ---
