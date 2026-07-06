@@ -1,6 +1,6 @@
 <h1 align="center">I'm Gideon Samuel...</h1>
 <p align="center">
- Machine Learning . Backend Developer · Distributed Systems . Flutter . Cloud development 
+ Machine Learning . Backend Developer . Open World Games · Distributed Systems . Flutter . Cloud development 
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Cloud+Development+%7C+ML;Distributed+Systems+%7C+Backend+Engineering;Building+Real-World+Projects" />
@@ -14,8 +14,9 @@
 
 ---
 
-- Interested in **Object-Oriented Programming**, **Data Structures & Algorithms**, and **Distributed Systems**
-- Looking to collaborate on **backend infrastructure**, **fintech platforms**, and **scalable system design**
+- Interested in **Scalable Systems**, **Cloud Development**, **Full Stack Development**, and **Distributed Systems**
+- Open to discussing **backend architecture**, **distributed systems**, and **system design**
+- Looking to collaborate on **backend infrastructure** and **fintech platforms**
 - Pronouns: **He/Him**
 
 ---
@@ -53,6 +54,17 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+
+**Design**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 **Tools & Infrastructure**
 
