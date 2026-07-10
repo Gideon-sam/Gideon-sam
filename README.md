@@ -1,6 +1,6 @@
 <h1 align="center">I'm Gideon Samuel...</h1>
 <p align="center">
- Machine Learning . Backend Developer . Open World Games · Distributed Systems . Flutter . Cloud development 
+ Machine Learning . Backend Developer . Open World Games development · Distributed Systems . Flutter . Cloud development 
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Cloud+Development+%7C+ML;Distributed+Systems+%7C+Backend+Engineering;Building+Real-World+Projects" />
